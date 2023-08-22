@@ -1,0 +1,14 @@
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.exe
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.deps.json
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.runtimeconfig.json
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.runtimeconfig.dev.json
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.dll
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\bin\Debug\netcoreapp3.1\PedidosYaBlue.pdb
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.csproj.AssemblyReference.cache
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.AssemblyInfoInputs.cache
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.AssemblyInfo.cs
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.dll
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.pdb
+C:\Users\Tobias\source\repos\PedidosYaBlue\PedidosYaBlue\obj\Debug\netcoreapp3.1\PedidosYaBlue.genruntimeconfig.cache
